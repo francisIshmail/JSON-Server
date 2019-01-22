@@ -1,74 +1,168 @@
 {
-coupons: [
-{
-store: "ebay",
-coupon: "Get upto 20% off on hand bags",
-expiryDate: "10/10/2016",
-couponCode: "ER4",
-category: "fashion",
-},
-{
-store: "amazon",
-coupon: "Get upto 5% off on mobile phones",
-expiryDate: "11/11/2016",
-couponCode: "TRG4",
-category: "electronics",
-},
-{
-store: "etsy",
-coupon: "Get upto 25% off on jeans",
-expiryDate: "09/09/2016",
-couponCode: "ERT4",
-category: "fashion",
-},
-{
-store: "bestbuy",
-coupon: "Get upto 30% off on televisions",
-expiryDate: "20/11/2016",
-couponCode: "343",
-category: "electronics",
-},
-{
-store: "sears",
-coupon: "Get upto 50% off on home and kitchen",
-expiryDate: "11/10/2016",
-couponCode: "ER3",
-category: "home",
-},
-{
-store: "walmart",
-coupon: "Get upto 10% off on baby products",
-expiryDate: "17/09/2016",
-couponCode: "we33",
-category: "baby",
-},
-{
-store: "kohls",
-coupon: "Get upto 22% off on kids fashion",
-expiryDate: "",
-couponCode: "err4",
-category: "kids fashion",
-},
-{
-store: "macys",
-coupon: "Get upto 19% off on fashion",
-expiryDate: "10/12/2016",
-couponCode: "DSF3",
-category: "fashion",
-},
-{
-store: "jcpenney",
-coupon: "Get upto 10% off on bedsheets",
-expiryDate: "11/12/2016",
-couponCode: "wew",
-category: "home",
-},
-{
-store: "wayfair",
-coupon: "Get 5% off on everything",
-expiryDate: "02/10/2016",
-couponCode: "233",
-category: "all",
-},
-]
+   "coupons":[
+      {
+         "memberNo":"CLL001",
+         "name":"Duncan Omwoyo"
+      },
+      {
+         "memberNo":"ameron1",
+         "name":"EE FF"
+      },
+      {
+         "memberNo":"SIL001",
+         "name":"AA BB"
+      },
+      {
+         "memberNo":"palm1",
+         "name":"Howard Keller"
+      },
+      {
+         "memberNo":"palm10",
+         "name":"palm1 Omwoyo"
+      },
+      {
+         "memberNo":"001",
+         "name":"Dante"
+      },
+      {
+         "memberNo":"21",
+         "name":"Duncan Omwoyo"
+      },
+      {
+         "memberNo":"gree1",
+         "name":"greenroom"
+      },
+      {
+         "memberNo":"kaz1",
+         "name":"Littlechap"
+      },
+      {
+         "memberNo":"r1",
+         "name":"recyclerView"
+      },
+      {
+         "memberNo":"CLL/001/00",
+         "name":"Omwoyo"
+      },
+      {
+         "memberNo":"gun1",
+         "name":"Gunther"
+      },
+      {
+         "memberNo":"123654",
+         "name":"Hussein Ali"
+      },
+      {
+         "memberNo":"123456",
+         "name":"Ann Wanjiru"
+      },
+      {
+         "memberNo":"45321",
+         "name":"Moreen Ndiga"
+      },
+      {
+         "memberNo":"00100",
+         "name":"loise mumbii"
+      },
+      {
+         "memberNo":"80801993",
+         "name":"Dennis Kaburu"
+      },
+      {
+         "memberNo":"7180642",
+         "name":"HUSSEIN ABDALLAH"
+      },
+      {
+         "memberNo":"03102018",
+         "name":"Lawrence Maleya"
+      },
+      {
+         "memberNo":"1234",
+         "name":"Francis Ishmail"
+      },
+      {
+         "memberNo":"123425",
+         "name":"joyce"
+      },
+      {
+         "memberNo":"FHI/120/00",
+         "name":"MOSES KIMANI"
+      },
+      {
+         "memberNo":"8005/01",
+         "name":"Duncan"
+      },
+      {
+         "memberNo":"jaw1/01/01",
+         "name":"jaw1"
+      },
+      {
+         "memberNo":"jaw1/01/02",
+         "name":"jaw2"
+      },
+      {
+         "memberNo":"jaw1/01/03",
+         "name":"jaw3"
+      },
+      {
+         "memberNo":"8006/01",
+         "name":"Danye"
+      },
+      {
+         "memberNo":"Cross1",
+         "name":"Cross"
+      },
+      {
+         "memberNo":"8007/01",
+         "name":"werw"
+      },
+      {
+         "memberNo":"tan1",
+         "name":"tan"
+      },
+      {
+         "memberNo":"CLL/001",
+         "name":"Francis Ishmael"
+      },
+      {
+         "memberNo":"LHS/001",
+         "name":"Natalia"
+      },
+      {
+         "memberNo":"2019",
+         "name":"Duncan"
+      },
+      {
+         "memberNo":"2019/01",
+         "name":"Dante"
+      },
+      {
+         "memberNo":"1001",
+         "name":"Duncan"
+      },
+      {
+         "memberNo":"1001-1",
+         "name":"Sylvia"
+      },
+      {
+         "memberNo":"1001-10",
+         "name":"Francis"
+      },
+      {
+         "memberNo":"1002",
+         "name":"Duncan"
+      },
+      {
+         "memberNo":"1002-1",
+         "name":"Sylvia"
+      },
+      {
+         "memberNo":"1002-10",
+         "name":"Francis"
+      },
+      {
+         "memberNo":"25750081",
+         "name":"ROSEMARY WAMBUI"
+      }
+   ]
 }
