@@ -1,42 +1,6 @@
 {
    "coupons":[
       {
-         "memberNo":"CLL001",
-         "name":"Duncan Omwoyo"
-      },
-      {
-         "memberNo":"ameron1",
-         "name":"EE FF"
-      },
-      {
-         "memberNo":"SIL001",
-         "name":"AA BB"
-      },
-      {
-         "memberNo":"palm1",
-         "name":"Howard Keller"
-      },
-      {
-         "memberNo":"palm10",
-         "name":"palm1 Omwoyo"
-      },
-      {
-         "memberNo":"001",
-         "name":"Dante"
-      },
-      {
-         "memberNo":"21",
-         "name":"Duncan Omwoyo"
-      },
-      {
-         "memberNo":"gree1",
-         "name":"greenroom"
-      },
-      {
-         "memberNo":"kaz1",
-         "name":"Littlechap"
-      },
-      {
          "memberNo":"r1",
          "name":"recyclerView"
       },
